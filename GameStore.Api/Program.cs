@@ -4,9 +4,8 @@ using GameStore.Api.Endpoints;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddValidation();
+builder.AddGameStoreDb();
 
-var connString = "Data Source=GameStore.db";
-builder.Services.AddSqlite<GameStoreContext>(connString);
 
 var app = builder.Build();
 
