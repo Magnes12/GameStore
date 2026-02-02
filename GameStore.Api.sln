@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.Api", "GameStore.Api\GameStore.Api.csproj", "{C791FCBC-B5EB-4D70-AEB4-72265F6906D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServiceTests", "GameServiceTests\GameServiceTests.csproj", "{FFA6F836-D2A6-4296-9DD0-65EAECAA9E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesEndpointsTests", "GamesEndpointsTests\GamesEndpointsTests.csproj", "{226BE304-1D44-45EB-AE0F-95DBFD7DB588}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{C791FCBC-B5EB-4D70-AEB4-72265F6906D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C791FCBC-B5EB-4D70-AEB4-72265F6906D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C791FCBC-B5EB-4D70-AEB4-72265F6906D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA6F836-D2A6-4296-9DD0-65EAECAA9E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA6F836-D2A6-4296-9DD0-65EAECAA9E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA6F836-D2A6-4296-9DD0-65EAECAA9E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA6F836-D2A6-4296-9DD0-65EAECAA9E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226BE304-1D44-45EB-AE0F-95DBFD7DB588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226BE304-1D44-45EB-AE0F-95DBFD7DB588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226BE304-1D44-45EB-AE0F-95DBFD7DB588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226BE304-1D44-45EB-AE0F-95DBFD7DB588}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

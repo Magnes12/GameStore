@@ -5669,19 +5669,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\daszyma\\.nuget\\packages\\": {}
+    "C:\\Users\\m4gn3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daszyma\\Desktop\\Code\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
+      "projectUniqueName": "C:\\Users\\m4gn3\\Desktop\\Code\\C# Programming from A to Z\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "C:\\Users\\daszyma\\Desktop\\Code\\GameStore.Api\\GameStore.Api\\GameStore.Api.csproj",
-      "packagesPath": "C:\\Users\\daszyma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daszyma\\Desktop\\Code\\GameStore.Api\\GameStore.Api\\obj\\",
+      "projectPath": "C:\\Users\\m4gn3\\Desktop\\Code\\C# Programming from A to Z\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+      "packagesPath": "C:\\Users\\m4gn3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\m4gn3\\Desktop\\Code\\C# Programming from A to Z\\GameStore\\GameStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\daszyma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\m4gn3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -5749,7 +5749,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\daszyma\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\m4gn3\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

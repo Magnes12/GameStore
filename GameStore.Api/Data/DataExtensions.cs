@@ -19,7 +19,7 @@ public static class DataExtensions
         var connString = builder.Configuration.GetConnectionString("GameStore");
         builder.Services.AddSqlite<GameStoreContext>(
             connString,
-            optionsAction: oprtions => oprtions.UseSeeding((context, _) =>
+            optionsAction: options  => options.UseSeeding((context, _) =>
             {
                 if (!context.Set<Genre>().Any())
                 {

@@ -11,7 +11,7 @@ Content-Type: application/json
 
 {
   "name": "Super Mario Bros",
-  "genre": "Platf",
+  "genreId": 3,
   "price": 59.99,
   "releaseDate": "2023-10-20"
 }
@@ -22,7 +22,7 @@ Content-Type: application/json
 
 {
   "name": "Super Mario Bros 2",
-  "genre": "Platform",
+  "genreId": 3,
   "price": 99.99,
   "releaseDate": "2025-10-20"
 }
